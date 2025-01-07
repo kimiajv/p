@@ -1,0 +1,30 @@
+
+*{margin:0; padding:0;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.h1{color:rgb(0, 0, 0);
+font-style:inherit;
+padding: 10px 358px 10px 300px;
+width:50%;
+background-color: rgba(235, 235, 235, 0.288);}
+body{border-width: 5px;
+    margin: 20px;
+border-color: black;
+line-height: 1.6;
+border-style: solid;
+direction: ltr;}
+h2{font-size:1.7em;}
+ h3{color:rgba(95, 95, 95, 0.884); font-size: 1.1em;padding-bottom:20px; margin-top: 0%;}
+ p{font-size: 1.2em;padding-bottom:10px;}
+ .a{color: rgb(0, 0, 0);font-size: 1.2em; }
+ footer{margin-top:20px;}
+h4{color:black;
+font-size: 1.5em;
+margin: 20px 20px 10px 20x;}
+ul{margin: 0 20px;
+list-style-type: square;
+padding:0;
+font-size: large;} 
+li{margin: 5px 0;
+font: size 1.7em;}
+.form-container{color: rgb(243, 243, 243); background-color: black; width:1300px; height:80px; font-size:2em; border: 5px solid rgb(0, 0, 0); cursor: pointer;
+text;}
